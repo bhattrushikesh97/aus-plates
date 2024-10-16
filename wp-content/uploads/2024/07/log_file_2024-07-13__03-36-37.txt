@@ -1,0 +1,116 @@
+
+---Downloaded files---
+The import files for: TechForest were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://clearcurvealigner.com/ausplate
+Data file = /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins/sb_framework/demo-data/TechForest/content.xml
+Widget file = /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins/sb_framework/demo-data/TechForest/widgets.json
+Customizer file = /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins/sb_framework/demo-data/TechForest/customizer.dat
+Redux files:
+adforest_theme -> /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins/sb_framework/demo-data/TechForest/theme-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

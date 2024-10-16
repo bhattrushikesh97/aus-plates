@@ -1,0 +1,331 @@
+
+---Downloaded files---
+The import files for: Elementor LTR Adforest were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://clearcurvealigner.com/ausplate
+Data file = /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins/sb_framework/demo-data/Elementor-LTR-Adforest/content.xml
+Widget file = /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins/sb_framework/demo-data/Elementor-LTR-Adforest/widgets.json
+Customizer file = /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins/sb_framework/demo-data/Elementor-LTR-Adforest/customizer.dat
+Redux files:
+adforest_theme -> /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins/sb_framework/demo-data/Elementor-LTR-Adforest/theme-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+footer-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Tag Cloud - No Title - Imported to Inactive
+
+footer-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Categories - No Title - Imported to Inactive
+
+footer-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Archives - Archives - Imported to Inactive
+
+adforest Sidebar : 
+
+Search - Search - Imported
+Recent Posts - Reacent Post - Imported
+Recent Comments - Recent comments - Imported
+Categories - Categories - Imported
+Meta - Meta - Imported
+Archives - Archive - Imported
+Tag Cloud - Tags - Imported
+
+adforest Grid Sidebar : 
+
+Ads Recent 2 - Recent Ads - Imported
+Ad Featured - Featured Ads - Imported
+Adforest Advertisement - Advertisement - Imported
+
+Single Ad Bottom : 
+
+Contact With Ad Owner - Contact With Ad Owner - Imported
+Adforest Advertisement - Advertisement - Imported
+
+Ads Search : 
+
+Ad Search - Ad Search - Imported
+Ad Categories - Categories - Imported
+Ad Type - Ad Type - Imported
+Ad Warranty - Warranty - Imported
+Ad Price - Ad Price - Imported
+Ad Condition - Condition - Imported
+Ad Locations - Ad Locations - Imported
+Ad Featured - Featured Ads - Imported
+Ads Recent - Recent Ads - Imported
+
+Users  Sidebar : 
+
+User Search - Search By Name - Imported
+User Rating Search - Search By Rating - Imported
+Adforest Advertisement - Advertisement - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: adforest_theme finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

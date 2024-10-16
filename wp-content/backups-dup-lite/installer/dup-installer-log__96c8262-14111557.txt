@@ -1,0 +1,1932 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 01:07:40
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |WINNT
+PHP VERSION_________: 8.1.27                                |8.2.7
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.2.7 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.54 (Win64) PHP/8.2.7 mod_fcgid/2.3.10-dev
+DOC ROOT____________: "C:/wamp64/www/ausplates1"
+REQUEST URL_________: "http://localhost/ausplates1"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+SECURE MODE_________: "none"
+URL PLUGINS_________: https://clearcurvealigner.com/ausplate/wp-content/plugins
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "C:/wamp64/www/ausplates1"
+URL_NEW_____________: "http://localhost/ausplates1"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "C:/wamp64/www/ausplates1/20240814_ausplates_[HASH]_20240814111557_archive.zip"
+ARCHIVE SIZE________: 1.16GB
+CREATED_____________: 2024-08-14 11:15:57
+WP VERSION__________: 6.6.1
+DUP VERSION_________: 1.5.10.2
+LICENSE_____________: Free version
+DB VERSION__________: 10.11.8
+DB FILE SIZE________: 16.63MB
+DB TABLES___________: 74
+DB ROWS_____________: 6421
+URL HOME____________: https://clearcurvealigner.com/ausplate
+URL CORE____________: https://clearcurvealigner.com/ausplate
+URL CONTENT_________: https://clearcurvealigner.com/ausplate/wp-content
+URL UPLOAD__________: https://clearcurvealigner.com/ausplate/wp-content/uploads
+URL PLUGINS_________: https://clearcurvealigner.com/ausplate/wp-content/plugins
+URL MU PLUGINS______: https://clearcurvealigner.com/ausplate/wp-content/mu-plugins
+URL THEMES__________: https://clearcurvealigner.com/ausplate/wp-content/themes
+PATH HOME___________: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate
+PATH ABS____________: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate
+PATH WPCONFIG_______: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate
+PATH WPCONTENT______: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content
+PATH UPLOADS________: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/uploads
+PATH PLUGINS________: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/plugins
+PATH MUPLUGINS______: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/mu-plugins
+PATH THEMES_________: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "clearcurvealigner.com/ausplate/"
+
+PLUGINS
+PLUGIN [SLUG:add-to-any/add-to-any.php                         ][ON:false]  AddToAny Share Buttons
+PLUGIN [SLUG:adforest-elementor/adforest-elementor.php         ][ON:true ]  Adforest Elementor
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:false]  Akismet Anti-spam: Spam Protection
+PLUGIN [SLUG:all-in-one-wp-migration/all-in-one-wp-migration.php][ON:true ]  All-in-One WP Migration
+PLUGIN [SLUG:all-in-one-seo-pack/all_in_one_seo_pack.php       ][ON:false]  All in One SEO
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:false]  Contact Form 7
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:google-analytics-for-wordpress/googleanalytics.php][ON:false]  Google Analytics for WordPress by MonsterInsights
+PLUGIN [SLUG:hello.php                                         ][ON:false]  Hello Dolly
+PLUGIN [SLUG:image-watermark/image-watermark.php               ][ON:false]  Image Watermark
+PLUGIN [SLUG:dc-woocommerce-multi-vendor/dc_product_vendor.php ][ON:true ]  MultiVendorX
+PLUGIN [SLUG:one-click-demo-import/one-click-demo-import.php   ][ON:true ]  One Click Demo Import
+PLUGIN [SLUG:sb-directory/sb_pro.php                           ][ON:false]  Sb Directory Plugin
+PLUGIN [SLUG:sb_framework/index.php                            ][ON:true ]  SB Framework
+PLUGIN [SLUG:revslider/revslider.php                           ][ON:true ]  Slider Revolution
+PLUGIN [SLUG:woocommerce/woocommerce.php                       ][ON:true ]  WooCommerce
+PLUGIN [SLUG:js_composer/js_composer.php                       ][ON:true ]  WPBakery Page Builder
+PLUGIN [SLUG:wp-reset/wp-reset.php                             ][ON:true ]  WP Reset
+PLUGIN [SLUG:wp-twilio-core/core.php                           ][ON:true ]  WP SMS for WordPress
+
+********************************************************************************
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\ctrls\ctrl.base.php:227][DELTA:   4.52867]  MESSAGE:END RENDER PAGE
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\ctrls\ctrl.base.php:227][DELTA:   2.48869]  MESSAGE:END RENDER PAGE
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00055]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Package Size" [CLASS: DUPX_Validation_test_package_size]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Package Size" RESULT: soft warning
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00022]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+LOG-TIME[DELTA:   0.11867]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00080]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00028]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00038]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.03408]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.13329]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00127]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00217]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.02038]  MESSAGE:TEST "Database Version" RESULT: soft warning
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00199]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00073]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00024]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00472]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00183]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.10332]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00143]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00400]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00019]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00204]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00066]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 01:09:14
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Aus Plates"
+HOME URL NEW________: "http://localhost/ausplates1"
+SITE URL NEW________: "http://localhost/ausplates1"
+CONTENT URL NEW_____: "http://localhost/ausplates1/wp-content"
+UPLOAD URL NEW______: "http://localhost/ausplates1/wp-content/uploads"
+PLUGINS URL NEW_____: "http://localhost/ausplates1/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://localhost/ausplates1/wp-content/mu-plugins"
+HOME PATH NEW_______: "C:/wamp64/www/ausplates1"
+SITE PATH NEW_______: "C:/wamp64/www/ausplates1"
+CONTENT PATH NEW____: "C:/wamp64/www/ausplates1/wp-content"
+UPLOAD PATH NEW_____: "C:/wamp64/www/ausplates1/wp-content/uploads"
+PLUGINS PATH NEW____: "C:/wamp64/www/ausplates1/wp-content/plugins"
+MUPLUGINS PATH NEW__: "C:/wamp64/www/ausplates1/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: false
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: false
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "C:/wamp64/www/ausplates1/dup-installer"
+	FILE: "C:/wamp64/www/ausplates1/20240814_ausplates_[HASH]_20240814111557_installer-backup.php"
+	FILE: "C:/wamp64/www/ausplates1/20240814_ausplates_[HASH]_20240814111557_archive.zip"
+	FILE: "C:/wamp64/www/ausplates1/installer.php"
+	FILE: "C:/wamp64/www/ausplates1/dup-installer-bootlog__96c8262-14111557.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20240814_ausplates_[HASH]_20240814111557_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 7.1582 sec. - Files processed: 2 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 2
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0201 sec. - Files processed: 2,975 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 2975
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0385 sec. - Files processed: 3,505 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 3505
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0285 sec. - Files processed: 4,056 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4056
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0245 sec. - Files processed: 4,429 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4429
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0377 sec. - Files processed: 5,098 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5098
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.3958 sec. - Files processed: 5,473 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5473
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0629 sec. - Files processed: 5,702 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5702
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0300 sec. - Files processed: 5,906 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5906
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0355 sec. - Files processed: 6,291 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6291
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.6154 sec. - Files processed: 6,532 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6532
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.4601 sec. - Files processed: 6,929 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6929
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0426 sec. - Files processed: 7,343 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 7343
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1302 sec. - Files processed: 7,571 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 7571
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0316 sec. - Files processed: 8,240 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 8240
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0666 sec. - Files processed: 9,069 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9069
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0151 sec. - Files processed: 9,502 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9502
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0851 sec. - Files processed: 9,861 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9861
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0393 sec. - Files processed: 10,211 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 10211
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0810 sec. - Files processed: 10,535 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 10535
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0651 sec. - Files processed: 10,623 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 10623
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0711 sec. - Files processed: 10,905 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 10905
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0405 sec. - Files processed: 11,257 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11257
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0383 sec. - Files processed: 11,799 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11799
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0354 sec. - Files processed: 12,392 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 12392
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0332 sec. - Files processed: 12,893 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 12893
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0700 sec. - Files processed: 13,302 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13302
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0291 sec. - Files processed: 13,710 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13710
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.2060 sec. - Files processed: 14,061 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14061
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0394 sec. - Files processed: 14,377 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14377
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1250 sec. - Files processed: 14,751 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14751
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0980 sec. - Files processed: 15,123 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15123
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0521 sec. - Files processed: 15,659 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15659
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0695 sec. - Files processed: 15,958 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15958
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0785 sec. - Files processed: 16,283 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 16283
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0395 sec. - Files processed: 16,583 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 16583
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0584 sec. - Files processed: 16,928 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 16928
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0937 sec. - Files processed: 17,243 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17243
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0459 sec. - Files processed: 17,588 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17588
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0383 sec. - Files processed: 17,897 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17897
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0286 sec. - Files processed: 18,258 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 18258
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0388 sec. - Files processed: 18,547 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 18547
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0720 sec. - Files processed: 18,894 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 18894
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0558 sec. - Files processed: 19,152 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19152
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0490 sec. - Files processed: 19,267 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19267
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1841 sec. - Files processed: 19,729 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19729
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0446 sec. - Files processed: 20,172 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 20172
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0684 sec. - Files processed: 20,666 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 20666
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1103 sec. - Files processed: 20,913 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 20913
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0288 sec. - Files processed: 21,208 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 21208
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.4467 sec. - Files processed: 21,563 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 21563
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0574 sec. - Files processed: 21,942 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 21942
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0261 sec. - Files processed: 22,483 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 22483
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0379 sec. - Files processed: 23,443 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 23443
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0339 sec. - Files processed: 24,323 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 24323
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0326 sec. - Files processed: 25,089 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 25089
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0256 sec. - Files processed: 25,779 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 25779
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0218 sec. - Files processed: 26,616 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 26616
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0230 sec. - Files processed: 27,510 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 27510
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0677 sec. - Files processed: 28,361 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 28361
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0246 sec. - Files processed: 29,256 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 29256
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1678 sec. - Files processed: 30,095 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 30095
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0224 sec. - Files processed: 30,985 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 30985
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0609 sec. - Files processed: 31,794 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 31794
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0387 sec. - Files processed: 32,761 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 32761
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0391 sec. - Files processed: 33,772 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 33772
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0182 sec. - Files processed: 34,173 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 34173
+--------------------------------------
+PATHS MAPPING : "C:/wamp64/www/ausplates1"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 35451
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 01:15:55 - RUNTIME: 402.6862 sec. - Files processed: 34,844 of 34,844
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 01:15:56
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_actionscheduler_actions"______________________[ROWS:      26] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_actions]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_claims]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_groups]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:      77] [EXTRACT|REPLACE] [INST NAME: wp_actionscheduler_logs]
+TABLE "wp_adforest_locations"___________________________[ROWS:      61] [EXTRACT|REPLACE] [INST NAME: wp_adforest_locations]
+TABLE "wp_aioseo_cache"_________________________________[ROWS:     137] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_cache]
+TABLE "wp_aioseo_crawl_cleanup_blocked_args"____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_crawl_cleanup_blocked_args]
+TABLE "wp_aioseo_crawl_cleanup_logs"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_crawl_cleanup_logs]
+TABLE "wp_aioseo_notifications"_________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_notifications]
+TABLE "wp_aioseo_posts"_________________________________[ROWS:     485] [EXTRACT|REPLACE] [INST NAME: wp_aioseo_posts]
+TABLE "wp_commentmeta"__________________________________[ROWS:      46] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:      15] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_packages"__________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_packages]
+TABLE "wp_e_events"_____________________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_e_events]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_mvx_cust_answers"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_mvx_cust_answers]
+TABLE "wp_mvx_cust_questions"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_mvx_cust_questions]
+TABLE "wp_mvx_products_map"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_mvx_products_map]
+TABLE "wp_mvx_shipping_zone_locations"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_mvx_shipping_zone_locations]
+TABLE "wp_mvx_shipping_zone_methods"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_mvx_shipping_zone_methods]
+TABLE "wp_mvx_vendor_ledger"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_mvx_vendor_ledger]
+TABLE "wp_mvx_vendor_orders"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_mvx_vendor_orders]
+TABLE "wp_mvx_visitors_stats"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_mvx_visitors_stats]
+TABLE "wp_options"______________________________________[ROWS:     584] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:    5882] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:     764] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_revslider_css"________________________________[ROWS:     109] [EXTRACT|REPLACE] [INST NAME: wp_revslider_css]
+TABLE "wp_revslider_layer_animations"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_layer_animations]
+TABLE "wp_revslider_navigations"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_revslider_navigations]
+TABLE "wp_revslider_sliders"____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_revslider_sliders]
+TABLE "wp_revslider_sliders7"___________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_revslider_sliders7]
+TABLE "wp_revslider_slides"_____________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_revslider_slides]
+TABLE "wp_revslider_slides7"____________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wp_revslider_slides7]
+TABLE "wp_revslider_static_slides"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_revslider_static_slides]
+TABLE "wp_termmeta"_____________________________________[ROWS:      54] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:     212] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:     366] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:     212] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_usermeta"_____________________________________[ROWS:     151] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wc_admin_notes"_______________________________[ROWS:      66] [EXTRACT|REPLACE] [INST NAME: wp_wc_admin_notes]
+TABLE "wp_wc_admin_note_actions"________________________[ROWS:      93] [EXTRACT|REPLACE] [INST NAME: wp_wc_admin_note_actions]
+TABLE "wp_wc_category_lookup"___________________________[ROWS:      10] [EXTRACT|REPLACE] [INST NAME: wp_wc_category_lookup]
+TABLE "wp_wc_customer_lookup"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_customer_lookup]
+TABLE "wp_wc_download_log"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_download_log]
+TABLE "wp_wc_orders"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_orders]
+TABLE "wp_wc_orders_meta"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_orders_meta]
+TABLE "wp_wc_order_addresses"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_addresses]
+TABLE "wp_wc_order_coupon_lookup"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_coupon_lookup]
+TABLE "wp_wc_order_operational_data"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_operational_data]
+TABLE "wp_wc_order_product_lookup"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_product_lookup]
+TABLE "wp_wc_order_stats"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_stats]
+TABLE "wp_wc_order_tax_lookup"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_order_tax_lookup]
+TABLE "wp_wc_product_attributes_lookup"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_attributes_lookup]
+TABLE "wp_wc_product_download_directories"______________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_download_directories]
+TABLE "wp_wc_product_meta_lookup"_______________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_wc_product_meta_lookup]
+TABLE "wp_wc_rate_limits"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_rate_limits]
+TABLE "wp_wc_reserved_stock"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_reserved_stock]
+TABLE "wp_wc_tax_rate_classes"__________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wp_wc_tax_rate_classes]
+TABLE "wp_wc_webhooks"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wc_webhooks]
+TABLE "wp_woocommerce_api_keys"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_api_keys]
+TABLE "wp_woocommerce_attribute_taxonomies"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_attribute_taxonomies]
+TABLE "wp_woocommerce_downloadable_product_permissions"_[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_downloadable_product_permissions]
+TABLE "wp_woocommerce_log"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_log]
+TABLE "wp_woocommerce_order_itemmeta"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_order_itemmeta]
+TABLE "wp_woocommerce_order_items"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_order_items]
+TABLE "wp_woocommerce_payment_tokenmeta"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_payment_tokenmeta]
+TABLE "wp_woocommerce_payment_tokens"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_payment_tokens]
+TABLE "wp_woocommerce_sessions"_________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_sessions]
+TABLE "wp_woocommerce_shipping_zones"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zones]
+TABLE "wp_woocommerce_shipping_zone_locations"__________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zone_locations]
+TABLE "wp_woocommerce_shipping_zone_methods"____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_shipping_zone_methods]
+TABLE "wp_woocommerce_tax_rates"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_tax_rates]
+TABLE "wp_woocommerce_tax_rate_locations"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_woocommerce_tax_rate_locations]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 8.0.31 -- Build Server: 10.11.8
+FILE SIZE:	dup-database__[HASH].sql (8.74MB)
+TIMEOUT:	5000
+MAXPACK:	67108864
+SQLMODE-GLOBAL:	
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	643
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_actionscheduler_actions"______________________[ROWS:    26]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:     0]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:     6]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:    77]
+TABLE "wp_adforest_locations"___________________________[ROWS:    61]
+TABLE "wp_aioseo_cache"_________________________________[ROWS:   137]
+TABLE "wp_aioseo_crawl_cleanup_blocked_args"____________[ROWS:     0]
+TABLE "wp_aioseo_crawl_cleanup_logs"____________________[ROWS:     0]
+TABLE "wp_aioseo_notifications"_________________________[ROWS:     3]
+TABLE "wp_aioseo_posts"_________________________________[ROWS:   485]
+TABLE "wp_commentmeta"__________________________________[ROWS:    46]
+TABLE "wp_comments"_____________________________________[ROWS:    15]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     1]
+TABLE "wp_e_events"_____________________________________[ROWS:     2]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_mvx_cust_answers"_____________________________[ROWS:     0]
+TABLE "wp_mvx_cust_questions"___________________________[ROWS:     0]
+TABLE "wp_mvx_products_map"_____________________________[ROWS:     0]
+TABLE "wp_mvx_shipping_zone_locations"__________________[ROWS:     0]
+TABLE "wp_mvx_shipping_zone_methods"____________________[ROWS:     0]
+TABLE "wp_mvx_vendor_ledger"____________________________[ROWS:     0]
+TABLE "wp_mvx_vendor_orders"____________________________[ROWS:     0]
+TABLE "wp_mvx_visitors_stats"___________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   584]
+TABLE "wp_postmeta"_____________________________________[ROWS:  5882]
+TABLE "wp_posts"________________________________________[ROWS:   764]
+TABLE "wp_revslider_css"________________________________[ROWS:   109]
+TABLE "wp_revslider_layer_animations"___________________[ROWS:     0]
+TABLE "wp_revslider_navigations"________________________[ROWS:     0]
+TABLE "wp_revslider_sliders"____________________________[ROWS:     1]
+TABLE "wp_revslider_sliders7"___________________________[ROWS:     1]
+TABLE "wp_revslider_slides"_____________________________[ROWS:     2]
+TABLE "wp_revslider_slides7"____________________________[ROWS:     3]
+TABLE "wp_revslider_static_slides"______________________[ROWS:     1]
+TABLE "wp_term_relationships"___________________________[ROWS:   366]
+TABLE "wp_term_taxonomy"________________________________[ROWS:   212]
+TABLE "wp_termmeta"_____________________________________[ROWS:    54]
+TABLE "wp_terms"________________________________________[ROWS:   212]
+TABLE "wp_usermeta"_____________________________________[ROWS:   151]
+TABLE "wp_users"________________________________________[ROWS:     5]
+TABLE "wp_wc_admin_note_actions"________________________[ROWS:    93]
+TABLE "wp_wc_admin_notes"_______________________________[ROWS:    66]
+TABLE "wp_wc_category_lookup"___________________________[ROWS:    10]
+TABLE "wp_wc_customer_lookup"___________________________[ROWS:     0]
+TABLE "wp_wc_download_log"______________________________[ROWS:     0]
+TABLE "wp_wc_order_addresses"___________________________[ROWS:     0]
+TABLE "wp_wc_order_coupon_lookup"_______________________[ROWS:     0]
+TABLE "wp_wc_order_operational_data"____________________[ROWS:     0]
+TABLE "wp_wc_order_product_lookup"______________________[ROWS:     0]
+TABLE "wp_wc_order_stats"_______________________________[ROWS:     0]
+TABLE "wp_wc_order_tax_lookup"__________________________[ROWS:     0]
+TABLE "wp_wc_orders"____________________________________[ROWS:     0]
+TABLE "wp_wc_orders_meta"_______________________________[ROWS:     0]
+TABLE "wp_wc_product_attributes_lookup"_________________[ROWS:     0]
+TABLE "wp_wc_product_download_directories"______________[ROWS:     2]
+TABLE "wp_wc_product_meta_lookup"_______________________[ROWS:     2]
+TABLE "wp_wc_rate_limits"_______________________________[ROWS:     0]
+TABLE "wp_wc_reserved_stock"____________________________[ROWS:     0]
+TABLE "wp_wc_tax_rate_classes"__________________________[ROWS:     2]
+TABLE "wp_wc_webhooks"__________________________________[ROWS:     0]
+TABLE "wp_woocommerce_api_keys"_________________________[ROWS:     0]
+TABLE "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0]
+TABLE "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0]
+TABLE "wp_woocommerce_log"______________________________[ROWS:     0]
+TABLE "wp_woocommerce_order_itemmeta"___________________[ROWS:     0]
+TABLE "wp_woocommerce_order_items"______________________[ROWS:     0]
+TABLE "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0]
+TABLE "wp_woocommerce_payment_tokens"___________________[ROWS:     0]
+TABLE "wp_woocommerce_sessions"_________________________[ROWS:     4]
+TABLE "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zones"___________________[ROWS:     0]
+TABLE "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0]
+TABLE "wp_woocommerce_tax_rates"________________________[ROWS:     0]
+
+INSERT DATA RUNTIME: 19.5124 sec.
+STEP-2 COMPLETE @ 01:16:16 - RUNTIME: 19.5128 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/u847898891/domains/clearcurvealigner.com/public_html/ausplate REPLACE: C:/wamp64/www/ausplates1 [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://clearcurvealigner.com/ausplate REPLACE: http://localhost/ausplates1 [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 01:16:16
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 1536M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+[PHP ERR][E_WARNING] MSG:foreach() argument must be of type array|object, string given [CODE:2|FILE:C:\wamp64\www\ausplates1\dup-installer\src\Core\Deploy\Database\DbCleanup.php|LINE:95]
+CLEAN OPTIONS [wp_options]
+	`option_name` = "duplicator_plugin_data_stats"
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+DATABASE OPTIONS DELETED [ROWS:    94]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    26][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:    77][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wp_adforest_locations"___________________________[ROWS:    61][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_adforest_locations][0]
+
+EVALUATE TABLE: "wp_aioseo_cache"_________________________________[ROWS:   137][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_cache][0]
+
+EVALUATE TABLE: "wp_aioseo_crawl_cleanup_blocked_args"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aioseo_crawl_cleanup_logs"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aioseo_notifications"_________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_notifications][0]
+
+EVALUATE TABLE: "wp_aioseo_posts"_________________________________[ROWS:   485][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_aioseo_posts][0]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:    46][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_commentmeta][0]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:    15][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_comments][0]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_events"_____________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_e_events][0]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mvx_cust_answers"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mvx_cust_questions"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mvx_products_map"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mvx_shipping_zone_locations"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mvx_shipping_zone_methods"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mvx_vendor_ledger"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mvx_vendor_orders"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mvx_visitors_stats"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   490][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  5882][PG:   6][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][5]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   764][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+	
+STEP-3 CHUNK STOP @ 01:16:22 - RUNTIME: 5.6048 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "wp_revslider_css"________________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_css][0]
+
+EVALUATE TABLE: "wp_revslider_layer_animations"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_sliders][0]
+
+EVALUATE TABLE: "wp_revslider_sliders7"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_sliders7][0]
+
+EVALUATE TABLE: "wp_revslider_slides"_____________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_slides][0]
+
+EVALUATE TABLE: "wp_revslider_slides7"____________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_slides7][0]
+
+EVALUATE TABLE: "wp_revslider_static_slides"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_static_slides][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:    54][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_termmeta][0]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:   212][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   366][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:   212][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:   151][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:    66][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_admin_notes][0]
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:    93][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:    10][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_orders"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_orders_meta"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_addresses"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_operational_data"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_attributes_lookup"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_download_directories"______________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_product_download_directories][0]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "wp_wc_rate_limits"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_reserved_stock"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/u847898891/domains/clearcurvealigner.com/public_html/ausplate" => "C:/wamp64/www/ausplates1"
+	SEARCH[urlnd]  2:"https://clearcurvealigner.com/ausplate" ==========> "http://localhost/ausplates1"
+	CHUNK ACTION: CURRENT [search_replace][wp_woocommerce_sessions][0]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:74 	|	 Rows:8914 	|	 Cells:79381 
+UPDATED:	Tables:11 	|	 Rows:679 	|	 Cells:792 
+ERRORS:		0 
+RUNTIME:	6.748100 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:C:/wamp64/www/ausplates1/wp-config.php
+New htaccess file created:C:/wamp64/www/ausplates1/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""ausplates1""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+\n SKIP FOLDER PERMISSION AFTER EXTRACTION
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 01:16:24 - RUNTIME: 1.7038 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[NOTICE] Plugin WPBakery Page Builder disabled by default
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated by default automatically. You must reactivate from the WordPress admin panel after completing the installation or from the plugins tab. Your site's frontend will render properly after reactivating the plugin.
+
+====================================
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] WPBakery Page Builder has been deactivated
+	SECTIONS: plugins
+
+-----------------------
+[NOTICE] Activate WPBakery Page Builder after you login.
+	SECTIONS: plugins
+
+====================================
+LOG-TIME[C:\wamp64\www\ausplates1\dup-installer\ctrls\ctrl.base.php:227][DELTA:   0.82463]  MESSAGE:END RENDER PAGE
